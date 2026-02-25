@@ -1,1 +1,0 @@
-bcc -Id:\bc5\include -Id:\beck\clib -Ld:\bc5\lib -Ld:\beck\clib -ml -1 meteo.c fonction.c CLIB201L.LIB

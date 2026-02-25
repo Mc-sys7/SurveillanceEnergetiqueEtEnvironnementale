@@ -188,3 +188,4 @@ void huge task_affiche(void)
         RTX_Sleep_Time(1000);
     }
 }
+
